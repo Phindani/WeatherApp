@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Open Weather</string>
+  <string name="action_settings">Settings</string>
+  <string name="tvCity">City</string>
+  <string name="tvTemperature">Temperature</string>
+  <string name="etCityName"></string>
+  <string name="btnGetWeatherText">Get weather</string>
+  <string name="lvTable"></string>
+  <string name="wind">Wind</string>
+  <string name="tvSunrise">Sunrise</string>
+  <string name="tvSunset">Sunset</string>
+  <string name="tvGeoCoords">Geo Coords</string>
+  <string name="weatherIcon">Weather Icon</string>
+  <string name="icon"></string>
+  <string name="tvDateTime">Date and time</string>
+  <string name="tvWind">Wind info</string>
+  <string name="tvCloudiness">Cloudiness</string>
+  <string name="tvPressure">Pressure</string>
+  <string name="tvHumidity">Humidity</string>
+  <string name="iconPath"></string>
+  <string name="btnGetWeather"></string>
+</resources>
